@@ -29,8 +29,9 @@ body{
   position: relative;
   font-size: 60px;
 }
+
 .link{
-    color:lightcyan;
+    color: lightskyblue;
     font-size:40px;
     text-align: center;
     position: relative;
