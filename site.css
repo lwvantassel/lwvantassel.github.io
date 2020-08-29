@@ -16,3 +16,12 @@ body{
   text-align: center;
   position: relative;
 }
+
+.header{
+  box-sizing: inherit;
+  font-family: Helvetica;
+  color: #f5f5f5;
+  text-align: center;
+  position: relative;
+  font-size: large;
+}
