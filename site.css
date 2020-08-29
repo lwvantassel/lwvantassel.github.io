@@ -32,4 +32,6 @@ body{
 .link{
     color:lightcyan;
     font-size:40px;
+    text-align: center;
+    position: relative;
 }
